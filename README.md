@@ -83,7 +83,7 @@ app/src/main/java/com/airwallex/guessmypup/
 ### Setup & Installation
 1. **Clone the repository**
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/FishpondKing/GuessMyPup.git
    cd GuessMyPup
    ```
 
