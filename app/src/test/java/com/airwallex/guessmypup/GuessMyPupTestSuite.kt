@@ -4,7 +4,6 @@ import com.airwallex.guessmypup.data.mapper.DogBreedMapperTest
 import com.airwallex.guessmypup.data.model.DogBreedTest
 import com.airwallex.guessmypup.data.model.QuizQuestionTest
 import com.airwallex.guessmypup.data.repository.DogBreedRepositoryImplTest
-import com.airwallex.guessmypup.data.repository.LocalDogBreedRepositoryTest
 import com.airwallex.guessmypup.features.breedlibrary.viewmodel.BreedLibraryViewModelTest
 import com.airwallex.guessmypup.features.quiz.domain.QuizScreenUiStateTest
 import com.airwallex.guessmypup.features.quiz.viewmodel.QuizViewModelTest
@@ -29,7 +28,6 @@ import org.junit.runners.Suite
     QuizQuestionTest::class,
     DogBreedMapperTest::class,
     DogBreedRepositoryImplTest::class,
-    LocalDogBreedRepositoryTest::class,
     
     // Domain Layer Tests
     QuizScreenUiStateTest::class,
