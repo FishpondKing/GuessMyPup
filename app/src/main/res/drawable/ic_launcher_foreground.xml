@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background circle for better visibility -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#FFFFFF" />
+            <size android:width="108dp" android:height="108dp" />
+        </shape>
+    </item>
+    
+    <!-- Cute puppy image scaled and centered -->
+    <item android:gravity="center">
+        <bitmap
+            android:src="@drawable/cute_puppy"
+            android:gravity="center"
+            android:scaleType="centerInside" />
+    </item>
+</layer-list>
