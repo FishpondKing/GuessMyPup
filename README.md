@@ -2,6 +2,16 @@
 
 A modern Android quiz application that challenges users to identify dog breeds from images. Built with the latest Android development technologies and following Clean Architecture principles.
 
+![pintu-fulicat com-1756039408787](https://github.com/user-attachments/assets/f9ea5c88-90b1-4c00-adea-f2abb04744f9)
+
+
+
+https://github.com/user-attachments/assets/3ce6d5c0-ab9c-49c1-b5dc-9cc2b7e8af9b
+
+
+
+Test apk: https://github.com/FishpondKing/GuessMyPup/blob/ec853d41cef8c6d1a780ef4fe16d3d9f09003703/test-app-debug.apk
+
 ## 📱 Features
 
 ### Core Functionality
